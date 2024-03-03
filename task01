@@ -1,0 +1,4 @@
+# Given a list x = [ 56, 32, 21, 8, 56, 21, 35 ]
+# Calculate the index of the duplicatd number from right to left.
+
+print("Answer")
